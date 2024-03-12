@@ -29,4 +29,4 @@ print("{:0.2f}".format(distance))
 
 
 ### RESULT:
-Thus the swapping of two values are successfully executed
+Thus the distance between two points are successfully calculated
