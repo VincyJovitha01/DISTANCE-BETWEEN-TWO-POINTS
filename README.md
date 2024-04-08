@@ -15,18 +15,21 @@ Print the calculated Distance between those two points
 End the program
 ### PROGRAM:
 ```
+#Program to find the Distance between two points
+#Developed by : Vincy Jovitha V
+#Register no : 212223230242
 x1=4
 x2=10
 y1=2
 y2=6
 distance=((x2-x1)**2+(y2-y1)**2)**(1/2)
 print("{:0.2f}".format(distance))
+
 ```
 
-
 ### OUTPUT:
-![image](https://github.com/VincyJovitha01/DISTANCE-BETWEEN-TWO-POINTS/assets/147121113/450f7962-ef58-4989-b75a-bd1b77ff958d)
+![alt text](<Screenshot 2024-04-08 100656.png>)
 
 
 ### RESULT:
-Thus the distance between two points are successfully calculated
+Thus the distance between two points are successfully calculated.
