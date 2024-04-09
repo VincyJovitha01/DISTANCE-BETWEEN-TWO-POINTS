@@ -28,8 +28,7 @@ print("{:0.2f}".format(distance))
 ```
 
 ### OUTPUT:
-![alt text](<Screenshot 2024-04-08 100656.png>)
-
+![alt text](exp3.png)
 
 ### RESULT:
 Thus the distance between two points are successfully calculated.
